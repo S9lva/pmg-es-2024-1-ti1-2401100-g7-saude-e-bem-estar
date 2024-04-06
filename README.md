@@ -1,17 +1,19 @@
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# SANTÉ
+Há muitas pessoas que, por várias razões, negligenciam sua saúde e bem-estar. Algumas delas simplesmente não encontram tempo para visitar um médico, enquanto outras podem enfrentar dificuldades para se deslocar até um consultório. Nossa proposta é desenvolver um sistema que possa acompanhar e realizar verificações diárias de informações relevantes, oferecendo orientações sobre o que fazer em determinadas situações e até mesmo auxiliando na identificação precoce de problemas de saúde, na medida do possível. A inovação que buscamos implementar incluirá a capacidade de prever doenças e oferecer um acompanhamento contínuo da saúde.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Matheus Dias
+* Julia Rocha
+* Lucas Silva
+* Eduardo Maia
+* Cleverson Resende
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Simone Alves Nogueira
+* Diego Augusto de Faria Barros
+* Daniel Victor Souza Saldanha
 
 ## Instruções de utilização
 
