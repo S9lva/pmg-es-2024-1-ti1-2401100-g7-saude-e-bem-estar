@@ -1,21 +1,20 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`SANTÉ`  
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-`CURSO` 
+`ENGENHARIA DE SOFTWARE` 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+Os membros do grupo são: 
+- Matheus Dias
+- Lucas Silva
+- Eduardo Maia
+- Cleverson Resende
+- Julia Rocha
 
 # Estrutura do Documento
 
@@ -56,19 +55,8 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Há muitas pessoas que, por várias razões, negligenciam sua saúde e bem-estar, não procuram algum auxilio medico. Algumas dessas pessoas simplesmente não encontram tempo para visitar um médico, enquanto outras podem enfrentar dificuldades para se deslocar até um consultório, além da falta de acesso equitativo a serviços de saúde de qualidade. Esse problema pode se manifestar de várias maneiras, incluindo disparidades no acesso aos cuidados de saúde entre diferentes grupos socioeconômicos, geográficos, raciais e étnicos.
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
