@@ -152,8 +152,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+
+|Dr. João, médico ginecologista  | Quero poder agendar consultas virtuais com minhas pacientes | Para oferecer maior comodidade e flexibilidade às pacientes, especialmente aquelas com dificuldades de deslocamento ou agenda ocupada, sem comprometer a qualidade do atendimento médico. |
+
+|Eu como Maria, mãe ocupada e preocupada com a saúde da família | Quero receber lembretes automáticos sobre exames de rotina e consultas médicas para mim e meus filhos | Para garantir que não esqueça compromissos importantes de saúde e possa manter a saúde da minha família em dia de forma conveniente.|
+
+|Eu como Ana, aposentada com mobilidade limitada | Quero poder agendar consultas médicas e exames em casa | Para evitar deslocamentos e dificuldades de locomoção, garantindo que eu possa acessar cuidados médicos de qualidade no conforto do meu lar. |
+
+|Eu como a equipe de suporte técnico da plataforma | Quero implementar um sistema de segurança robusto para proteger os dados confidenciais dos pacientes | Para garantir a privacidade e a segurança das informações de saúde dos usuários, construindo confiança e credibilidade na plataforma. |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
