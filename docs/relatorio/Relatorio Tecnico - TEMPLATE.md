@@ -180,8 +180,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Login - Paciente e Médico | ALTA | 
+|RF-002| Paciente - Perguntas ao cadastrar (condição específica / sexo / idade / dados sensíveis)  | ALTA |
+|RF-003| Paciente - Vincular sintomas / sentimentos / sensações físicas e mentais a um dia do calendário  | ALTA |
+|RF-004| Paciente - Lembrete de atividades (exames / consultas / alimentação ou bebida específica) | MÉDIA | 
+|RF-005| Paciente/Médico - Histórico do que foi escrito | MÉDIA | 
+|RF-006| Paciente - Marcação de consulta online | BAIXA | 
+|RF-007| Médico - Disponibilizar horários | BAIXA | 
+
 
 
 ### Requisitos não Funcionais
