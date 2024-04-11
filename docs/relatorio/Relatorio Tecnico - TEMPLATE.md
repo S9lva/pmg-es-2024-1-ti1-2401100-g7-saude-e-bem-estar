@@ -161,6 +161,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |Eu como a equipe de suporte técnico da plataforma | Quero implementar um sistema de segurança robusto para proteger os dados confidenciais dos pacientes | Para garantir a privacidade e a segurança das informações de saúde dos usuários, construindo confiança e credibilidade na plataforma. |
 
+|Eu como Carlos, um consultor de negócios autônomo| Eu quero informações precisas e confiáveis e especialmente no que diz respeito a questões relacionadas ao estresse e ao estilo de vida agitado que leva como empreendedor autônomo | Para poder viajar pelo mundo e ainda poder fazer algumas consultas online garantindo uma viajem sem muitas preocupações em relação a sua saúde|
+
+|Eu como Diego, um medico | Eu quero um programa que me ajude a me organizar e me alertar dos compromissos e me mostre as informações do paciente| Para poder me preparar para minhas consultas já tendo todas as informações sobre o paciente antes mesmo dele entrar no meu consultório |
+
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
 > ferramenta poderosa para a compreensão e elicitação dos requisitos
