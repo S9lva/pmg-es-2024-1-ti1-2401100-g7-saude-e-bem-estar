@@ -226,7 +226,14 @@ Exploração de diferentes fontes de receita, como planos de assinatura, doaçõ
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](imaages/../images/persona.png)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/cdc794ce-1183-4177-b02e-aa13bb121114)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/fbc1a8ec-bbf0-4caa-aa1a-c301d9b5389a)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/53fc406a-a168-43a5-a2ff-68f624d935eb)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/8bb20fdb-66a4-4cc7-9730-658ae8ee0885)
+
+
+
+
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
