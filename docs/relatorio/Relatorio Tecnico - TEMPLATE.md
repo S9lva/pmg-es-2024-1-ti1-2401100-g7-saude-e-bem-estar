@@ -101,22 +101,49 @@ Trabalho em equipe: Valorizamos a colaboração e o aprendizado mútuo entre nos
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Persona: Maria da Silva
+Idade: 65 anos
+
+Ocupação: Aposentada
+
+Localização: Belo Horizonte, Minas Gerais
+
+Contexto:
+
+Maria é uma mulher viúva que vive sozinha há 5 anos. Ela tem diabetes e hipertensão, e precisa fazer acompanhamento médico regular. No entanto, devido à falta de plano de saúde e à dificuldade de locomoção, Maria tem tido problemas para acessar serviços de saúde de qualidade.
+
+Frustrações:
+
+Dificuldade de agendar consultas médicas
+Longas filas de espera nos hospitais
+Falta de informação sobre como cuidar da sua saúde
+Sentimento de solidão e isolamento
+Objetivos:
+
+Encontrar um médico que possa acompanhá-la de forma regular
+Ter acesso a exames e medicamentos a preços acessíveis
+Receber orientação sobre como cuidar da sua saúde
+Interagir com outras pessoas que também têm diabetes e hipertensão
+Como o Santé pode ajudar:
+
+O Santé pode oferecer à Maria consultas médicas online com profissionais qualificados.
+O Santé pode ajudá-la a agendar exames e a encontrar medicamentos a preços acessíveis.
+O Santé pode fornecer à Maria informações sobre como cuidar da sua saúde, através de artigos, vídeos e grupos de apoio online.
+O Santé pode conectar a Maria com outras pessoas que também têm diabetes e hipertensão, para que ela possa compartilhar suas experiências e receber apoio.
+Citações:
+
+"Eu gostaria de ter um médico que pudesse me atender em casa, porque é muito difícil para mim ir ao hospital."
+"Eu não sei como cuidar da minha saúde direito. Eu preciso de alguém que me explique o que eu devo fazer."
+"Eu me sinto muito sozinha. Eu gostaria de conversar com outras pessoas que entendem o que eu estou passando."
+Valores do Santé que mais se identificam com a Maria:
+
+Acessibilidade: Maria valoriza o fato de que o Santé oferece serviços de saúde a preços acessíveis e que podem ser acessados online.
+Humanização: Maria se sente acolhida e respeitada pela equipe do Santé.
+Inovação: Maria está impressionada com a tecnologia utilizada pelo Santé para oferecer serviços de saúde.
+Conclusão:
+
+O Santé pode ajudar a Maria a melhorar sua saúde e qualidade de vida, oferecendo-lhe acesso a serviços de saúde de qualidade, de forma acessível e humanizada.
  
 # Especificações do Projeto
 
