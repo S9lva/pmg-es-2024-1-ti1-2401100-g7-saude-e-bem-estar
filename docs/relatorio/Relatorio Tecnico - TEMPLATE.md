@@ -1,11 +1,11 @@
 # Informações do Projeto
 `SANTÉ`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Conecte-se à sua saúde, conecte-se ao futuro, conecte-se conosco.
 
 `ENGENHARIA DE SOFTWARE` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A Engenharia de Software é uma tecnologia que, se usada de forma correta, é capaz de ajudar em diversas áreas da sociedade, como acessar serviços de saúde de qualidade, melhorando assim a eficiência dos processos médicos e aumentando a acessibilidade para pacientes em locais remotos ou com mobilidade reduzida.
 
 ## Participantes
 
