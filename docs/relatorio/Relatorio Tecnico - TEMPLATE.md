@@ -64,7 +64,7 @@ Há muitas pessoas que, por várias razões, negligenciam sua saúde e bem-estar
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo principal
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
