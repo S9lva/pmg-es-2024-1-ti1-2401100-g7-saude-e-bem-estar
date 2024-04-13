@@ -398,7 +398,21 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Utilizamos o Scrum, que é um método ágil de gerenciamento e desenvolvimento de projetos, especialmente em ambientes onde a mudança é constante e a incerteza é alta. A seguir está um resumo dos principais conceitos e práticas do Scrum que utilizamos para criar nosso projeto:
+
+Equipe Scrum: Equipe responsável pelo desenvolvimento de um produto ou serviço. É auto-organizado e multifuncional, composto por membros com as competências necessárias para executar as tarefas do projeto.
+
+Scrum Master: Responsável por garantir que o Time Scrum siga os princípios e práticas Scrum. Remova impedimentos ao progresso da equipe e facilite reuniões e eventos Scrum.
+
+Backlog do Produto: Uma lista de todos os recursos, requisitos, melhorias e correções que precisam ser feitas no produto. O Product Owner define prioridades com base no valor e nas necessidades do negócio.
+
+Sprint: Um período fixo de tempo, 3 semanas, durante o qual nosso time trabalha para entregar um incremento de produto potencialmente entregável. Cada Sprint começa com planejamento e termina com revisão e retrospectiva. Fizemos apenas 1.
+
+Sprint Backlog: O subconjunto do Product Backlog selecionado pelo nosso time para ser entregue durante o Sprint atual. Os itens do Sprint Backlog são detalhados e estimados durante o Sprint Planning.
+
+Reunião diária: Nosso time realizou breves reuniões diárias para sincronizar as atividades e discutir quaisquer impedimentos que possam estar impedindo o progresso. Cada membro da equipe responde a três perguntas: O que fiz desde a última reunião? O que preciso fazer antes da próxima reunião? Quais são as barreiras?
+
+Revisão do Sprint: Uma reunião realizada no final de cada Sprint para revisar o incremento do produto concluído e obter feedback das partes interessadas. O proprietário do produto decide se aceita o incremento.
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
@@ -418,7 +432,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- Matheus Dias (Criação do Figma + preenchimento Miro)
+- Lucas Silva (Criação do Figma + preenchimento Miro)
+- Eduardo Maia (Preenchimento Miro)
+- Julia Rocha (Divisão de papéis + Criação do Figma + preenchimento Miro)
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
@@ -429,14 +446,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  [https://miro.com/XXXXXXX](https://miro.com/app/board/uXjVNiWnpEA=/) | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | MavelApp ou Figma | [https://figma.com/XXXXXXX](https://www.figma.com/file/l2yzTT7R4zfQhNm8qDARVx/Figma-basics?type=design&node-id=1669-162202&mode=design&t=DwYBOZo5y8hx5sws-0) | 
+
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
