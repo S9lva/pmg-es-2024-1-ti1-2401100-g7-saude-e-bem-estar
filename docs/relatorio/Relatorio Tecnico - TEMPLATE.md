@@ -64,16 +64,24 @@ Há muitas pessoas que, por várias razões, negligenciam sua saúde e bem-estar
 
 ## Objetivos
 
-O objetivo principal
+Objetivos Do Santé
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Missão:
+
+A Santé se dedica a agregar saúde e bem-estar à vida daqueles que, por diversas razões, não podem mais acessar um acompanhamento médico formalizado. Através de um modelo inovador e humanizado, buscamos ampliar o acesso à saúde de qualidade, promovendo a prevenção de doenças, o autocuidado e a qualidade de vida da população.
+
+Visão:
+
+Aspiramos a ser reconhecidos como uma referência em saúde para pessoas em situação de vulnerabilidade, contribuindo para a construção de uma sociedade mais justa e saudável.
+
+Valores:
+
+Compromisso com a saúde: Priorizamos o bem-estar físico, mental e social dos nossos usuários.
+Acessibilidade: Acreditamos que a saúde é um direito fundamental e deve estar disponível para todos, independentemente de renda, status social ou localização.
+Humanização: Cultivamos um ambiente acolhedor e respeitoso, valorizando a individualidade de cada usuário.
+Inovação: Buscamos constantemente aprimorar nossos serviços e métodos, utilizando tecnologias e conhecimentos atualizados para oferecer o melhor atendimento possível.
+Eficiência: Gerimos nossos recursos com responsabilidade e transparência, otimizando processos e buscando sempre a sustentabilidade da organização.
+Trabalho em equipe: Valorizamos a colaboração e o aprendizado mútuo entre nossos colaboradores, reconhecendo a importância de cada um para o alcance dos nossos objetivos.
 
 ## Justificativa
 
