@@ -147,12 +147,62 @@ O Santé pode ajudar a Maria a melhorar sua saúde e qualidade de vida, oferecen
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Especificações do Projeto Santé 
+1. Objetivo Geral:
 
+Desenvolver um software chamado Santé que visa agregar saúde e bem-estar à vida de pessoas que, por diversas razões, não podem mais acessar um acompanhamento médico formalizado. Através de um modelo inovador e humanizado, o Santé busca ampliar o acesso à saúde de qualidade, promovendo a prevenção de doenças, o autocuidado e a qualidade de vida da população, com foco em atender às necessidades e desafios específicos da persona Maria da Silva, descrita anteriormente.
+
+2. Público-alvo:
+
+Pessoas em situação de vulnerabilidade social, como idosos, portadores de doenças crônicas, pessoas com deficiência e indivíduos com renda familiar baixa.
+Com ênfase em atender às necessidades de mulheres idosas como a Maria da Silva, que residem sozinhas, apresentam doenças crônicas e possuem dificuldades de locomoção e acesso a serviços de saúde.
+3. Funcionalidades:
+
+Agendamento de consultas médicas online:
+Sistema intuitivo e de fácil utilização, adaptado para pessoas com pouca familiaridade com tecnologia.
+Integração com a agenda dos médicos parceiros, permitindo agendamento rápido e eficiente.
+Possibilidade de agendar consultas com diferentes especialidades médicas.
+Videoconsultas com médicos:
+Plataforma segura e confiável para realização de consultas médicas online.
+Atendimento por médicos qualificados e experientes em telemedicina.
+Possibilidade de utilizar recursos como chat e compartilhamento de tela durante a consulta.
+Orientação médica personalizada:
+Envio de mensagens e conteúdos educativos personalizados para cada paciente, de acordo com suas necessidades e condições de saúde.
+Orientação sobre medicamentos, exames, hábitos alimentares e estilo de vida.
+Acompanhamento do progresso do paciente e ajuste do plano de tratamento conforme necessário.
+Monitoramento de sinais vitais:
+Integração com dispositivos vestíveis para monitoramento de pressão arterial, glicemia, frequência cardíaca e outros sinais vitais.
+Geração de relatórios e alertas para o médico e o paciente, em caso de alterações significativas nos sinais vitais.
+Grupos de apoio online:
+Criação de grupos virtuais para que pacientes com doenças crônicas ou outras condições de saúde possam se conectar, compartilhar experiências, trocar informações e receber apoio mútuo.
+Moderação por profissionais da saúde para garantir um ambiente seguro e positivo.
+Acesso a informações em saúde:
+Biblioteca online com artigos, vídeos e outros materiais educativos sobre diversos temas relacionados à saúde, prevenção de doenças e promoção do bem-estar.
+Conteúdos selecionados e revisados por profissionais de saúde para garantir a qualidade e confiabilidade das informações.
+Sistema de gamificação:
+Implementação de um sistema de gamificação para incentivar o engajamento dos usuários na plataforma, através de desafios, recompensas e badges.
+Personalização dos desafios de acordo com os objetivos de cada paciente.
+Integração com o Sistema Único de Saúde (SUS):
+Possibilidade de consultar agendamentos de exames e consultas no SUS através da plataforma Santé.
+Recebimento de notificações sobre datas e horários de consultas e exames agendados no SUS.
+Orientação sobre como acessar os serviços de saúde disponíveis no SUS.
+4. Design e Usabilidade:
+
+Interface amigável e intuitiva, acessível para pessoas com diferentes níveis de familiaridade com tecnologia, especialmente para idosos como a Maria da Silva.
+Layout simples e organizado, com ícones e menus claros e fáceis de usar.
+Conteúdos textuais em linguagem clara e objetiva, evitando termos técnicos e jargões médicos.
+Disponibilidade de recursos de acessibilidade, como legendas para vídeos e alto contraste para pessoas com deficiência visual.
+5. Segurança e Privacidade:
+
+Implementação de medidas robustas de segurança para proteger os dados dos usuários, incluindo criptografia de dados, controle de acesso e firewalls.
+Cumprimento rigoroso das leis de privacidade de dados, como a Lei Geral de Proteção de Dados Pessoais (LGPD).
+Transparência nas políticas de privacidade, informando aos usuários como seus dados são coletados, usados e armazenados.
+6. Sustentabilidade:
+
+Modelo de negócios sustentável que garanta a viabilidade financeira do projeto a longo prazo.
+Busca por parcerias com instituições públicas e privadas para ampliar o alcance do Santé e garantir a qualidade dos serviços.
+Exploração de diferentes fontes de receita, como planos de assinatura, doações e parcerias com empresas
 ## Personas e Mapas de Empatia
 
 ......  COLOQUE AQUI O SEU TEXTO ......
