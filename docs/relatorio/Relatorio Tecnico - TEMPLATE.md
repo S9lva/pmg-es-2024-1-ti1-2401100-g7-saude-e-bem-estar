@@ -85,7 +85,6 @@ Trabalho em equipe: Valorizamos a colaboração e o aprendizado mútuo entre nos
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -95,6 +94,21 @@ Trabalho em equipe: Valorizamos a colaboração e o aprendizado mútuo entre nos
 > O grupo de trabalho pode fazer uso de questionários, entrevistas e
 > dados estatísticos, que podem ser apresentados, com o objetivo de
 > esclarecer detalhes do problema que será abordado pelo grupo.
+
+*Uma edição da PNAD investigou, pela primeira vez, o acesso das mulheres brasileiras aos serviços de saúde preventiva da mulher - quase metade das mulheres acima de 50 anos nunca fizeram um exame de mamografia na vida.
+
+*35 milhões de brasileiros ainda não têm acesso a nenhum serviço de saúde de uso regular segundo o IBGE.
+
+*Segundo o Instituto Ipsos, nove em cada dez brasileiros afirmam que não têm condição de pagar por saúde de qualidade. Os principais entraves no acesso à saúde identificados entre os brasileiros foi o custo de tratamento, a dificuldade no agendamento de consultas e a distância entre o domicílio e as unidades de saúde.
+
+A motivação para usar este aplicativo é compreender as necessidades e os desafios que as pessoas enfrentam quando buscam cuidados de saúde acessíveis e de qualidade. Escolhi esta aplicação porque acredito que a tecnologia pode desempenhar um papel fundamental na melhoria da acessibilidade e eficiência dos serviços de saúde, fornecendo soluções inovadoras que vão ao encontro das necessidades dos pacientes e dos profissionais de saúde.
+
+Optei por me concentrar em objetivos específicos relacionados ao monitoramento contínuo da saúde e ao uso da tecnologia para facilitar consultas médicas remotas, lembretes de exames e gerenciamento de registros de saúde. Isto ocorre porque se reconhece que muitas pessoas enfrentam dificuldades no acesso aos serviços de saúde devido a limitações de tempo, barreiras geográficas, restrições de circulação e outros factores.
+
+Um mergulho mais profundo em aspectos como a segurança dos dados, a integração com outros profissionais de saúde e o fornecimento de recursos educativos reflecte a compreensão de que a confiança e a colaboração são fundamentais para o sucesso das plataformas digitais de saúde. Além disso, reconheço a importância de fornecer informações atualizadas e recursos educacionais para capacitar os pacientes a tomar decisões informadas sobre a sua saúde.
+
+Em suma, a minha motivação para utilizar esta aplicação é contribuir para melhorar o acesso aos cuidados de saúde e promover a saúde e o bem-estar das pessoas através da utilização da tecnologia de forma eficaz e centrada no utilizador. A selecção de objectivos específicos e áreas de foco é orientada pela escolha de satisfazer as necessidades reais das pessoas e fornecer soluções que tenham um impacto positivo tangível nas suas vidas.
+
 >
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
