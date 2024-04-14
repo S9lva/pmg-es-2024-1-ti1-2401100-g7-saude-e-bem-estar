@@ -142,9 +142,9 @@ Inovação: Maria está impressionada com a tecnologia utilizada pelo Santé par
 Conclusão:
 
 O Santé pode ajudar a Maria a melhorar sua saúde e qualidade de vida, oferecendo-lhe acesso a serviços de saúde de qualidade, de forma acessível e humanizada.
+
  
 # Especificações do Projeto
-
 
 Especificações do Projeto Santé 
 1. Objetivo Geral:
@@ -201,8 +201,13 @@ Transparência nas políticas de privacidade, informando aos usuários como seus
 Modelo de negócios sustentável que garanta a viabilidade financeira do projeto a longo prazo.
 Busca por parcerias com instituições públicas e privadas para ampliar o alcance do Santé e garantir a qualidade dos serviços.
 Exploração de diferentes fontes de receita, como planos de assinatura, doações e parcerias com empresas
-## Personas e Mapas de Empatia
 
+
+## Personas e Mapas de Empatia
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/cdc794ce-1183-4177-b02e-aa13bb121114)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/fbc1a8ec-bbf0-4caa-aa1a-c301d9b5389a)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/53fc406a-a168-43a5-a2ff-68f624d935eb)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/8bb20fdb-66a4-4cc7-9730-658ae8ee0885)
 
 ## Histórias de Usuários
 
