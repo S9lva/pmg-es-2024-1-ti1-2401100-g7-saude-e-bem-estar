@@ -57,10 +57,6 @@ Os membros do grupo são:
 
 Há muitas pessoas que, por várias razões, negligenciam sua saúde e bem-estar, não procuram algum auxilio medico. Algumas dessas pessoas simplesmente não encontram tempo para visitar um médico, enquanto outras podem enfrentar dificuldades para se deslocar até um consultório, além da falta de acesso equitativo a serviços de saúde de qualidade. Esse problema pode se manifestar de várias maneiras, incluindo disparidades no acesso aos cuidados de saúde entre diferentes grupos socioeconômicos, geográficos, raciais e étnicos.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
@@ -83,17 +79,8 @@ Inovação: Buscamos constantemente aprimorar nossos serviços e métodos, utili
 Eficiência: Gerimos nossos recursos com responsabilidade e transparência, otimizando processos e buscando sempre a sustentabilidade da organização.
 Trabalho em equipe: Valorizamos a colaboração e o aprendizado mútuo entre nossos colaboradores, reconhecendo a importância de cada um para o alcance dos nossos objetivos.
 
+
 ## Justificativa
-
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
 
 *Uma edição da PNAD investigou, pela primeira vez, o acesso das mulheres brasileiras aos serviços de saúde preventiva da mulher - quase metade das mulheres acima de 50 anos nunca fizeram um exame de mamografia na vida.
 
@@ -109,9 +96,6 @@ Um mergulho mais profundo em aspectos como a segurança dos dados, a integraçã
 
 Em suma, a nossa motivação para utilizar esta aplicação é contribuir para melhorar o acesso aos cuidados de saúde e promover a saúde e o bem-estar das pessoas através da utilização da tecnologia de forma eficaz e centrada no utilizador. A seleção de objectivos específicos e áreas de foco é orientada pela escolha de satisfazer as necessidades reais das pessoas e fornecer soluções que tenham um impacto positivo tangível nas suas vidas.
 
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -220,36 +204,6 @@ Exploração de diferentes fontes de receita, como planos de assinatura, doaçõ
 ## Personas e Mapas de Empatia
 
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
-> **Exemplo de Persona**
-> 
-> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/cdc794ce-1183-4177-b02e-aa13bb121114)
-> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/fbc1a8ec-bbf0-4caa-aa1a-c301d9b5389a)
-> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/53fc406a-a168-43a5-a2ff-68f624d935eb)
-> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/8bb20fdb-66a4-4cc7-9730-658ae8ee0885)
-
-
-
-
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
-
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -269,16 +223,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |Eu como Diego, um medico | Eu quero um programa que me ajude a me organizar e me alertar dos compromissos e me mostre as informações do paciente| Para poder me preparar para minhas consultas já tendo todas as informações sobre o paciente antes mesmo dele entrar no meu consultório |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
@@ -297,34 +241,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-007| Médico - Disponibilizar horários | BAIXA | 
 
 
-
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 
 ## Restrições
@@ -335,14 +257,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 
 # Projeto de Interface
@@ -359,21 +273,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## User Flow
 
 ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/ccca2a99-0ddc-4a18-8cc6-47a52ff8e714)
-
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
 
 
 ## Wireframes
@@ -414,21 +313,6 @@ Reunião diária: Nosso time realizou breves reuniões diárias para sincronizar
 
 Revisão do Sprint: Uma reunião realizada no final de cada Sprint para revisar o incremento do produto concluído e obter feedback das partes interessadas. O proprietário do produto decide se aceita o incremento.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
 
@@ -437,45 +321,16 @@ Revisão do Sprint: Uma reunião realizada no final de cada Sprint para revisar 
 - Eduardo Maia (Preenchimento Miro)
 - Julia Rocha (Divisão de papéis + Criação do Figma + preenchimento Miro)
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 
 ## Ferramentas
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  [https://miro.com/XXXXXXX](https://miro.com/app/board/uXjVNiWnpEA=/) | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | [https://figma.com/XXXXXXX](https://www.figma.com/file/l2yzTT7R4zfQhNm8qDARVx/Figma-basics?type=design&node-id=1669-162202&mode=design&t=DwYBOZo5y8hx5sws-0) | 
+|Processo de Design Thinkgin  | Miro |  [https://miro.com/](https://miro.com/app/board/uXjVNiWnpEA=/) | 
+|Repositório de código | GitHub | https://github.com/(https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/tree/master) | 
+|Hospedagem do site | Heroku |  https://herokuapp.com | 
+|Protótipo Interativo | MavelApp ou Figma | [https://figma.com/](https://www.figma.com/file/l2yzTT7R4zfQhNm8qDARVx/Figma-basics?type=design&node-id=1669-162202&mode=design&t=DwYBOZo5y8hx5sws-0) | 
 
-
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
 
 ## Controle de Versão
 
