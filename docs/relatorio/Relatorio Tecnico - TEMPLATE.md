@@ -99,7 +99,6 @@ Em suma, a nossa motivação para utilizar esta aplicação é contribuir para m
 
 ## Público-Alvo
 
-
 Persona: Maria da Silva
 Idade: 65 anos
 
@@ -143,7 +142,7 @@ Conclusão:
 
 O Santé pode ajudar a Maria a melhorar sua saúde e qualidade de vida, oferecendo-lhe acesso a serviços de saúde de qualidade, de forma acessível e humanizada.
 
- 
+
 # Especificações do Projeto
 
 Especificações do Projeto Santé 
@@ -204,10 +203,17 @@ Exploração de diferentes fontes de receita, como planos de assinatura, doaçõ
 
 
 ## Personas e Mapas de Empatia
+
 > ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/cdc794ce-1183-4177-b02e-aa13bb121114)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/153991098/a46d9620-44c2-43ae-9324-d24cbb7c4a76)
 > ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/fbc1a8ec-bbf0-4caa-aa1a-c301d9b5389a)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/153991098/f05e8389-de90-43d7-83e4-1d85a69b9881)
 > ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/53fc406a-a168-43a5-a2ff-68f624d935eb)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/153991098/e09ab1ef-4d8f-43ab-9d69-24b53df6a472)
 > ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/8bb20fdb-66a4-4cc7-9730-658ae8ee0885)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/153991098/8c8e0d58-7443-4a17-b2d3-4f401b8497e8)
+
+
 
 ## Histórias de Usuários
 
@@ -287,13 +293,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 https://copper-meade-64.tiiny.site/ 
 Wireframe feito usando a ferramenta MIRO para a tela inicial de "Santé"
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-
-
 
 # Metodologia
 
@@ -327,7 +326,7 @@ Revisão do Sprint: Uma reunião realizada no final de cada Sprint para revisar 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  [https://miro.com/](https://miro.com/app/board/uXjVNiWnpEA=/) | 
-|Repositório de código | GitHub | https://github.com/(https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/tree/master) | 
+|Repositório de código | GitHub | [https://github.com/](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/tree/master) | 
 |Hospedagem do site | Heroku |  https://herokuapp.com | 
 |Protótipo Interativo | MavelApp ou Figma | [https://figma.com/](https://www.figma.com/file/l2yzTT7R4zfQhNm8qDARVx/Figma-basics?type=design&node-id=1669-162202&mode=design&t=DwYBOZo5y8hx5sws-0) | 
 
