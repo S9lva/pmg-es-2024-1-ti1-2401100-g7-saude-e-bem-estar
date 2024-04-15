@@ -282,6 +282,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
+![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/165854996/e76a32c2-6300-4c60-a361-c773f98a4146)
+
 https://copper-meade-64.tiiny.site/ 
 Wireframe feito usando a ferramenta MIRO para a tela inicial de "Santé"
 
