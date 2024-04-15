@@ -1,4 +1,5 @@
 # Informações do Projeto
+
 `SANTÉ`  
 
 Conecte-se à sua saúde, conecte-se ao futuro, conecte-se conosco.
@@ -6,6 +7,7 @@ Conecte-se à sua saúde, conecte-se ao futuro, conecte-se conosco.
 `ENGENHARIA DE SOFTWARE` 
 
 A Engenharia de Software é uma tecnologia que, se usada de forma correta, é capaz de ajudar em diversas áreas da sociedade, como acessar serviços de saúde de qualidade, melhorando assim a eficiência dos processos médicos e aumentando a acessibilidade para pacientes em locais remotos ou com mobilidade reduzida.
+
 
 ## Participantes
 
@@ -15,6 +17,7 @@ Os membros do grupo são:
 - Eduardo Maia
 - Cleverson Resende
 - Julia Rocha
+
 
 # Estrutura do Documento
 
@@ -205,14 +208,13 @@ Exploração de diferentes fontes de receita, como planos de assinatura, doaçõ
 ## Personas e Mapas de Empatia
 
 > ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/cdc794ce-1183-4177-b02e-aa13bb121114)
-> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/153991098/a46d9620-44c2-43ae-9324-d24cbb7c4a76)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/153991098/133786be-da6f-425d-9d8d-7b5f62769f86)
 > ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/fbc1a8ec-bbf0-4caa-aa1a-c301d9b5389a)
-> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/153991098/f05e8389-de90-43d7-83e4-1d85a69b9881)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/153991098/4f8474e3-855a-4a18-bccc-ff93c520a05c)
 > ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/53fc406a-a168-43a5-a2ff-68f624d935eb)
-> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/153991098/e09ab1ef-4d8f-43ab-9d69-24b53df6a472)
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/153991098/135fa19d-7525-46d2-a9a9-ccbdc5606fc2)
 > ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/95948984/8bb20fdb-66a4-4cc7-9730-658ae8ee0885)
-> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/153991098/8c8e0d58-7443-4a17-b2d3-4f401b8497e8)
-
+> ![image](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-1-ti1-2401100-g7-saude-e-bem-estar/assets/153991098/dc81a1e7-d3a9-41e6-a523-bcdedd615fb7)
 
 
 ## Histórias de Usuários
@@ -238,6 +240,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+
 
 ### Requisitos Funcionais
 
