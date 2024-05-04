@@ -4,64 +4,59 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="assets/css/main.css" rel="stylesheet">
-    <link href="assets/js/main.js" rel="">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <title>Santé</title>
 </head>
 <body>
+  <!--Cabeçalho do site -->
     <Header>
         <div class="header">
-          <a href="#default" class="logo">Santé <img src="assets/img/Saude.png" alt="saude" class="img-saude"></a>
+          <a href="index.html" class="logo">Santé <img src="assets/img/Saude.png" alt="saude" class="img-saude"></a>
           <div class="header-right">
             <a href="#home">Meu Caso</a>
             <a href="#contact">Quem Somos</a>
-            <button href="#" type="button" class="btn-verde">Cadastrar</button>
-            <button href="#" type="button" class="btn-verde">Login</button>
+              <a href="Cadastro_Med.html">
+                <button type="button" class="btn-verde">Cadastrar</button></a>
+              <a href="Cadastro_Med.html">
+              <button href="#" type="button" class="btn-verde">Login</button></a>
           </div>
         </div>
     </Header>
 
+<!--Conteudo central do site -->
     <main>
       <h1 class="text-center">Conecte-se à sua saúde, conecte-se ao futuro, conecte-se conosco.</h1><br>
 
-      <div id="carouselExampleDark" class="carousel carousel-dark slide">
-        <div class="carousel-indicators">
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
-        </div>
-        <div class="carousel-inner">
-          <div class="carousel-item active" data-bs-interval="10000">
-            <img src="assets/img/Carrosel1.jpeg" class="d-block  rounded mx-auto d-block" alt="carrosel1">
-            <div class="carousel-caption d-none d-md-block">
-              <h5>Placeholder</h5>
-              <p>Placeholder</p>
-            </div>
-          </div>
-          <div class="carousel-item" data-bs-interval="2000">
-            <img src="assets/img/Carrosel1.jpeg" class="d-block rounded mx-auto d-block" alt="carrosel2">
-            <div class="carousel-caption d-none d-md-block">
-              <h5>Placeholder</h5>
-              <p>Placeholder</p>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <img src="assets/img/Carrosel1.jpeg" class="d-block rounded mx-auto d-block" alt="carrosel3">
-            <div class="carousel-caption d-none d-md-block">
-              <h5>Placeholder</h5>
-              <p>Placeholder</p>
-            </div>
-          </div>
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
-      </div><br>
+<!--Carrosel da pagina incial -->
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/img/Carrosel1.jpeg" class="d-block w-25 img-fluid" alt="img1">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/Saude.png" class="d-block w-25 img-fluid" alt="img2">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/Carrosel1.jpeg" class="d-block w-25 img-fluid" alt="img3">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+<!--Parte das funcionalidades -->
 
       <h2>Sempre cuidado de você</h2>
       <p>Trazemos diversar funcinalidedes que podem te auxiliar na sua jornada</p>
@@ -72,7 +67,7 @@
             <div class="card-body cards">
               <h5 class="card-title">Calendario de consultas</h5>
               <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-              <a href="#" class="btn btn btn-success">Go somewhere</a>
+              <a href="Calendario.html" class="btn btn btn-success">Go somewhere</a>
             </div>
           </div>
         </div>
@@ -105,6 +100,8 @@
         </div>
       </div><br>
 
+<!--Parte de noticias do site -->
+
       <h2>Acompanhe as noticias</h2>
       <p>As noticias mais recentes sobre a area da saude</p>
 
@@ -134,9 +131,9 @@
           </div>
         </div>
       </div><br>
-
     </main>
 
+<!--Footer das informações do site -->
     <footer>
       <div class="footer">
         <div class="row g-0 text-center">
@@ -159,5 +156,9 @@
       </div>
     </footer>
 
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="assets/js/main.js"></script>
 </body>
 </html>
