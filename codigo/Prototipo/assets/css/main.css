@@ -1,10 +1,13 @@
+/*Inicio formatação body*/
 body { 
   margin: 0;
   padding:0;
   border:0;
   font-family: Arial, Helvetica, sans-serif;
 }
+/*Fim formatação body*/
 
+/*Inicio formatação do header*/
 .header {
   overflow: hidden;
   background-color: #4A9A50;
@@ -30,6 +33,7 @@ body {
 
 .header a:hover {
   background-color: #3e8042;
+  color: white;
 }
 
 .header-right {
@@ -47,7 +51,9 @@ body {
     float: none;
   }
 }
+/* Fim formatação do header*/
 
+/*Inicio botão inscrição*/
 .btn-verde{
   background-color: #DBE89C;
   text-align: center;
@@ -62,13 +68,8 @@ body {
 .btn-verde:hover {
   background-color: #bec988;
 }
+/*Fim botão inscrição*/
 
-.footer {
-  font-family: Arial, Helvetica, sans-serif;
-  width: 100%;
-  background-color: #4A9A50;
-  color: white;
-}
 .img-saude{
   width: 35px;
 }
@@ -77,7 +78,7 @@ body {
   background-color: #D1FFD4;
 }
 
-
+/* Inicio carrosel*/
 .carousel {
   width: 100%;
   overflow: hidden;
@@ -97,7 +98,6 @@ body {
   height: auto;
 }
 
-/* Botões de navegação */
 .carousel-btn {
   cursor: pointer;
   position: absolute;
@@ -120,3 +120,23 @@ body {
 .next-btn {
   right: 10px;
 }
+/*Fim Carrosel*/
+
+.link{
+  color: #3e8042;
+}
+
+.link:hover{
+  color: #4A9A50;
+}
+
+/*Inicio footer*/
+.footer {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  background-color: #4A9A50;
+  color: white;
+  bottom: 0;
+  margin-top: 20px;
+}
+/*Fim footer*/
