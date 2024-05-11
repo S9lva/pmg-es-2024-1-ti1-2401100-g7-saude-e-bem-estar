@@ -1,17 +1,21 @@
-/*funcionalidade do carrosel*/
+/*funcionalidade do carrosel
 const myCarousel = document.querySelector('#carouselExampleDark')
 
 const carousel = new bootstrap.Carousel(myCarousel, {
   interval: 2000,
   touch: false
 })
-
+//Fim funcionalidade carrosel
+*/
+// Funcionalidade de armazenar dados
 const nomeInput = document.getElementById("nome");
 const crmInput = document.getElementById("crm");
 const especialidadeInput = document.getElementById("especialidade");
 const telefoneInput = document.getElementById("telefone");
 const emailInput = document.getElementById("email");
 const datanascimentoInput = document.getElementById("data_nascimento");
+const senhaInput = document.getElementById("senha");
+const form = document.querySelector("form");
 
 function armazenaDados() {
 
@@ -21,22 +25,20 @@ function armazenaDados() {
   departamento.crm = crmInput.value.trim();
   departamento.especialidade = especialidadeInput.value.trim();
   departamento.telefone = telefoneInput.value.trim();
-  departamento.email = especialidadeInput.value.trim();
+  departamento.email = emailInput.value.trim();
+  departamento.senha = senhaInput.value.trim();
   departamento.data_nascimento = datanascimentoInput.value;
-
-
+  
   let departamentos = JSON.parse(localStorage.getItem("departamentos")) || [];
   departamentos.push(departamento);  
   localStorage.setItem("departamentos", JSON.stringify(departamentos));
 
-  form.reset(); // Limpa o Formulário
-  window.location.href = "index.html"; // Redireciona (Volta) para página inicial
+  form.reset(); 
+  window.location.href = "Login_Med.html";
+  alert("Cadastro bem-sucedido!");
 }
 /**
- * Função para obter um identificador único (ID) à partir do armazenamento local (localStorage) do navegador.
- * A função lê o último ID armazenado no localStorage, incrementa-o em 1 e, em seguida,
- * armazena o novo ID de volta no localStorage para uso futuro.
- @returns {number} um identificador único no formato de número inteiro.
+ @returns {number}
  */
 
 function obterID() {
@@ -47,3 +49,25 @@ function obterID() {
 
   return id;
 }
+// Fim funcionalidade de armazenar dados
+
+// Funcionalidade de login 
+function Login() {
+  const email = emailInput.value.trim();
+  const password = senhaInput.value.trim();
+
+  const departamentos = JSON.parse(localStorage.getItem("departamentos")) || [];
+
+  const foundDepartment = departamentos.find(departamento => departamento.email === email && departamento.senha === password);
+
+  if (foundDepartment) {
+      window.location.href = "Perfil_Med.html";
+      alert("Login bem-sucedido!");
+  } else {
+      alert("E-mail ou senha incorretos. Por favor, tente novamente.");
+      console.log('load')
+  }
+}
+
+// Fim funcionalidade de login 
+

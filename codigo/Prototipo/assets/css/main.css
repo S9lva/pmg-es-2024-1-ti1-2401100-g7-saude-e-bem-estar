@@ -10,7 +10,7 @@ body {
 /*Inicio formatação do header*/
 .header {
   overflow: hidden;
-  background-color: #4A9A50;
+  background-color: #3685F5;
   padding: 20px 10px;
   color: white;
 }
@@ -32,7 +32,7 @@ body {
 }
 
 .header a:hover {
-  background-color: #3e8042;
+  background-color: #3077DA;
   color: white;
 }
 
@@ -55,18 +55,18 @@ body {
 
 /*Inicio botão inscrição*/
 .btn-verde{
-  background-color: #DBE89C;
+  background-color: #3649F5;
   text-align: center;
   padding: 10px;
   text-decoration: none;
   font-size: 18px; 
   border-radius: 6px;
   border-width: 0px;
-  color: black;
+  color: white;
 }
 
 .btn-verde:hover {
-  background-color: #bec988;
+  background-color: #2F40D8;
 }
 /*Fim botão inscrição*/
 
@@ -123,18 +123,18 @@ body {
 /*Fim Carrosel*/
 
 .link{
-  color: #3e8042;
+  color: #3077DA;
 }
 
 .link:hover{
-  color: #4A9A50;
+  color: #3685F5;
 }
 
 /*Inicio footer*/
 .footer {
   font-family: Arial, Helvetica, sans-serif;
   width: 100%;
-  background-color: #4A9A50;
+  background-color: #3685F5;
   color: white;
   bottom: 0;
   margin-top: 20px;
