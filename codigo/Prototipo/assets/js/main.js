@@ -61,6 +61,7 @@ function Login() {
   const foundDepartment = departamentos.find(departamento => departamento.email === email && departamento.senha === password);
 
   if (foundDepartment) {
+      sessionStorage.setItem("idDepartamento", foundDepartment.id);
       window.location.href = "Perfil_Med.html";
       alert("Login bem-sucedido!");
   } else {
@@ -68,6 +69,140 @@ function Login() {
       console.log('load')
   }
 }
-
 // Fim funcionalidade de login 
 
+// Funcionalidade calcular idade
+const nomeh1 = document.querySelector("#name_perfil");
+const idadeh4 = document.querySelector("#idade_perfil");
+const emailh4 = document.querySelector("#email_perfil");
+const telefoneh4 = document.querySelector("#telefone_perfil");
+//const ceph4 = document.querySelector("#cep_perfil"); // Adicionado elemento para exibir o CEP
+const expecializacaoh4 = document.querySelector("#expecializacao_perfil");
+
+function calcularIdade(dataNascimento) {
+    const hoje = new Date();
+    const dataNasc = new Date(dataNascimento);
+    let idade = hoje.getFullYear() - dataNasc.getFullYear();
+    const mes = hoje.getMonth() - dataNasc.getMonth();
+
+    if (mes < 0 || (mes === 0 && hoje.getDate() < dataNasc.getDate())) {
+        idade--;
+    }
+    return idade;
+}
+// Funcionalidade calcular idade
+
+// Funcionalidade visualizar dados 
+function exibirDetalhesDepartamento() {
+    const id = sessionStorage.getItem("idDepartamento");
+    
+    if (id !== null) {
+        let departamentos = JSON.parse(localStorage.getItem("departamentos")) || [];
+        let departamento = departamentos.find((d) => { return d.id == id; } );
+
+        if (departamento) {
+            nomeh1.innerText = departamento.nome;
+            idadeh4.innerText = `Idade: ${calcularIdade(departamento.data_nascimento)}`;
+            emailh4.innerText = `Email: ${departamento.email}`;
+            telefoneh4.innerText = `Telefone: ${departamento.telefone}`;
+            //ceph4.innerText = departamento.cep;
+            expecializacaoh4.innerText = `Especialização: ${departamento.especialidade}`;
+        } else {
+            console.error("Departamento não encontrado para o ID:", id);
+        }
+    } else {
+        console.error("ID de departamento do usuário não definido no localStorage. O usuário deve fazer login primeiro.");
+    }
+}
+
+window.addEventListener("load", () => {
+    exibirDetalhesDepartamento();
+});
+// Fim funcionalidade visualizar dados 
+
+//Funcionalidade de editar dados
+document.addEventListener("DOMContentLoaded", function() {
+  const id = sessionStorage.getItem("idDepartamento");
+  let departamento = null;
+  
+  if (id !== null) {
+      let departamentos = JSON.parse(localStorage.getItem("departamentos")) || [];
+      departamento = departamentos.find((d) => { return d.id == id; });
+  } else {
+      console.error("ID de departamento do usuário não definido no sessionStorage. O usuário deve fazer login primeiro.");
+  }
+  
+  function preencherCampos() {
+      if (departamento) {
+          nomeh1.innerText = departamento.nome;
+          idadeh4.innerText = `Idade: ${calcularIdade(departamento.data_nascimento)}`;
+          emailh4.innerText = `Email: ${departamento.email}`;
+          telefoneh4.innerText = `Telefone: ${departamento.telefone}`;
+          expecializacaoh4.innerText = `Especialização: ${departamento.especialidade}`;
+      }
+  }
+
+  preencherCampos();
+
+  function habilitarEdicao() {
+      if (departamento) {
+          nomeh1.contentEditable = true;
+          idadeh4.contentEditable = true;
+          emailh4.contentEditable = true;
+          telefoneh4.contentEditable = true;
+          expecializacaoh4.contentEditable = true;
+      }
+  }
+
+  document.querySelector('.btn.btn-primary').addEventListener('click', function() {
+      habilitarEdicao();
+  });
+
+  function salvarEdicoes() {
+      if (departamento) {
+          departamento.nome = nomeh1.textContent;
+          departamento.email = emailh4.textContent.replace("Email: ", "").trim();
+          departamento.telefone = telefoneh4.textContent.replace("Telefone: ", "").trim();
+          departamento.especialidade = expecializacaoh4.textContent.replace("Especialização: ", "").trim();
+
+          let departamentos = JSON.parse(localStorage.getItem("departamentos")) || [];
+          departamentos = departamentos.map(d => {
+              if (d.id === departamento.id) {
+                  return departamento;
+              } else {
+                  return d;
+              }
+          });
+          localStorage.setItem("departamentos", JSON.stringify(departamentos));
+          location.reload();
+      }
+  }
+
+  document.querySelectorAll('.btn.btn-primary.btn-right')[0].addEventListener('click', function() {
+      salvarEdicoes();
+  });
+  document.querySelectorAll('.btn.btn-primary.btn-right')[1].addEventListener('click', function() {
+      location.reload();
+  });
+});
+  // Fim funcionalida editar dados
+
+  // Funcionalida excluir dados
+document.addEventListener("DOMContentLoaded", function() {
+  const id = sessionStorage.getItem("idDepartamento");
+
+  function excluirConta() {
+      if (confirm("Tem certeza de que deseja excluir sua conta? Esta ação é irreversível.")) {
+          let departamentos = JSON.parse(localStorage.getItem("departamentos")) || [];
+          departamentos = departamentos.filter(departamento => departamento.id !== parseInt(id));
+          localStorage.setItem("departamentos", JSON.stringify(departamentos));
+          window.location.href = "Login_Med.html";
+          alert("Sua conta foi excluída com sucesso!");
+      }
+  }
+
+  document.querySelector('.btn.btn-danger').addEventListener('click', function() {
+      excluirConta();
+  });
+});
+  // Fim funcionalida excluir dados
