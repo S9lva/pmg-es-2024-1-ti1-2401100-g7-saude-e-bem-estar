@@ -23,13 +23,13 @@
     
 
     <br><div class="container shadow p-3 mb-5 bg-body-tertiary rounded">
-        <form>
+      <form id="dataForm">
           <h2 class="d-flex justify-content-center">Perguntas Ao Cadastrar</h2>
           <div class="form-group">
-            <label for="historico_familiar">1. Você tem algum histórico familiar de condições médicas importantes?</label>
-            <select id="historico_familiar" name="historico_familiar" class="form-control" onchange="mostrarCampoOutro(this, 'outra_doenca')">
-              <option value="doenca_cardiaca">Doenças cardiovasculares</option>
-              <option value="diabetes">Diabetes</option>
+              <label for="historico_familiar">1. Você tem algum histórico familiar de condições médicas importantes?</label>
+              <select id="historico_familiar" name="historico_familiar" class="form-control" onchange="mostrarCampoOutro(this, 'outra_doenca')">
+                  <option value="doenca_cardiaca">Doenças cardiovasculares</option>
+                  <option value="diabetes">Diabetes</option>
               <option value="doenca_respiratoria">Doenças respiratórias crônicas</option>
               <option value="doenca_neurologica">Doenças neurológicas</option>
               <option value="cancer">Câncer</option>
@@ -73,7 +73,7 @@
               <option value="outra">Outro (especificar abaixo)</option>
             </select>
             <input type="text" class="form-control mt-2" id="outra_doenca_passada" name="outra_doenca_passada" placeholder="Especifique a outra doença" style="display: none;">
-          </div><br>
+        </div><br>
           <div class="form-group">
             <label for="historico_alergias">4. Qual é o seu histórico de alergias?</label>
             <textarea id="historico_alergias" name="historico_alergias" rows="3" class="form-control" placeholder="Descreva suas alergias"></textarea>
@@ -108,10 +108,26 @@
           <div class="d-flex justify-content-center">
             <button type="button" onclick="armazenaDadosPac()" class="btn btn-primary">Cadastrar</button>
             <button onclick="window.location.href='index.html'" class="btn btn-info">Voltar</button>
-          </div>
-          <br><a href="Login_Med.html" class="d-flex justify-content-center link" >Já tenho uma conta</a>
-        </form>
-      </div>
+        </div>
+    </form>
+
+    <!-- Tabela para exibir os dados -->
+    <div class="mt-5">
+        <h2 class="d-flex justify-content-center">Dados Cadastrados</h2>
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col">Dado</th>
+                <th scope="col">Resposta</th>
+                <th scope="col">Ações</th>
+            </tr>
+            </thead>
+            <tbody id="data-table">
+            <!-- Aqui serão inseridos os dados dinamicamente -->
+            </tbody>
+        </table>
+    </div>
+</div>
 
 <!--Footer das informações do site -->
 <footer>
